@@ -1,7 +1,7 @@
 # GFG_Problem_of_the_day
 
 ### head3
-'''
+```
 #include <bits/stdc++.h>
 #include <iomanip>
 #define ll long long int
@@ -81,4 +81,4 @@ int main()
     // solve();
     return 0;
 }
-  '''
+  ```
