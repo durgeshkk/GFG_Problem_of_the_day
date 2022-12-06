@@ -1,7 +1,7 @@
 # GFG_Problem_of_the_day
 
 ### head3
-```
+```c
 #include <bits/stdc++.h>
 #include <iomanip>
 #define ll long long int
